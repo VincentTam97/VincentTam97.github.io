@@ -99,10 +99,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Apple",
-        href: "https://apple.com"
+        title: "klrp95的博客",
+        href: "https://blog.csdn.net/klrp95"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "BRAVE_NO1的专栏",
+        href: "https://blog.csdn.net/BRAVE_NO1"
     }
 ]
